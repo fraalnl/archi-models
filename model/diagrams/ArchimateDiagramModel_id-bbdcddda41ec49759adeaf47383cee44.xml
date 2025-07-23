@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Default View"
-    id="id-bbdcddda41ec49759adeaf47383cee44">
+    id="id-bbdcddda41ec49759adeaf47383cee44"
+    documentation="this is a test">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-854fac71ab87468d8c3ef4a8b60fc814">
@@ -14,5 +15,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-c6956f2ba48e4705a6d3d0a3986cbfce.xml#id-c6956f2ba48e4705a6d3d0a3986cbfce"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8e01ad9eb85d4fadacd4e17b7681a731">
+    <bounds
+        x="852"
+        y="204"
+        width="277"
+        height="157"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationEvent"
+        href="ApplicationEvent_id-64ef3cd218c4420e96ed2ce05927a9e7.xml#id-64ef3cd218c4420e96ed2ce05927a9e7"/>
   </children>
 </archimate:ArchimateDiagramModel>
