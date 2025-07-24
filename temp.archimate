@@ -24,10 +24,10 @@
         <bounds x="852" y="204" width="277" height="157"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-e2444548e2214dd8b68b8715ed904de3" archimateElement="id-606c9b470b5c4ab5893e2d7322052942">
-        <bounds x="156" y="408" width="301" height="85"/>
+        <bounds x="336" y="408" width="301" height="85"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-03845d71e3a34d3ba3700db508cac51a" archimateElement="id-94dcf9c7bcc04cbabe33033abbc2ff97">
-        <bounds x="912" y="396" width="325" height="85"/>
+        <bounds x="756" y="396" width="325" height="85"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-10e2cd3d4cb741e7ab7191c65323e6fc" archimateElement="id-b995d035567d427d965eeea0911a996c">
         <bounds x="720" y="204" width="121" height="49"/>

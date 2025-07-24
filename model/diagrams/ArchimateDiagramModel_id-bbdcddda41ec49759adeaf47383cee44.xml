@@ -64,4 +64,16 @@
         xsi:type="archimate:TechnologyProcess"
         href="TechnologyProcess_id-b995d035567d427d965eeea0911a996c.xml#id-b995d035567d427d965eeea0911a996c"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9ca3b884814a4d648bcaa1687fb0e6e9">
+    <bounds
+        x="1224"
+        y="168"
+        width="121"
+        height="193"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_id-7e99df1c7447435085d96211bd3c63c6.xml#id-7e99df1c7447435085d96211bd3c63c6"/>
+  </children>
 </archimate:ArchimateDiagramModel>
