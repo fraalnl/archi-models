@@ -9,6 +9,7 @@
   </folder>
   <folder name="Technology &amp; Physical" id="id-a5eca1895eb54e69a6ef436e714ceabc" type="technology">
     <element xsi:type="archimate:Node" name="test2" id="id-606c9b470b5c4ab5893e2d7322052942"/>
+    <element xsi:type="archimate:TechnologyProcess" name="Technology Process" id="id-b995d035567d427d965eeea0911a996c"/>
   </folder>
   <folder name="Motivation" id="id-dd145b43865c450ba172bf2d46cd62a8" type="motivation"/>
   <folder name="Implementation &amp; Migration" id="id-7131d8c7bee84456b3b922020d7bc4e5" type="implementation_migration"/>
@@ -17,16 +18,19 @@
   <folder name="Views" id="id-e3aa0661966545e08d78865afcc74f9a" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-bbdcddda41ec49759adeaf47383cee44">
       <child xsi:type="archimate:DiagramObject" id="id-854fac71ab87468d8c3ef4a8b60fc814" archimateElement="id-c6956f2ba48e4705a6d3d0a3986cbfce">
-        <bounds x="204" y="132" width="469" height="241"/>
+        <bounds x="96" y="144" width="469" height="241"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-8e01ad9eb85d4fadacd4e17b7681a731" archimateElement="id-64ef3cd218c4420e96ed2ce05927a9e7">
         <bounds x="852" y="204" width="277" height="157"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-e2444548e2214dd8b68b8715ed904de3" archimateElement="id-606c9b470b5c4ab5893e2d7322052942">
-        <bounds x="252" y="420" width="301" height="85"/>
+        <bounds x="156" y="408" width="301" height="85"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-03845d71e3a34d3ba3700db508cac51a" archimateElement="id-94dcf9c7bcc04cbabe33033abbc2ff97">
-        <bounds x="744" y="432" width="325" height="85"/>
+        <bounds x="912" y="396" width="325" height="85"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-10e2cd3d4cb741e7ab7191c65323e6fc" archimateElement="id-b995d035567d427d965eeea0911a996c">
+        <bounds x="720" y="204" width="121" height="49"/>
       </child>
       <documentation>this is a test</documentation>
     </element>
